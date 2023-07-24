@@ -35,7 +35,9 @@ I helped design the app <br>
  <h3/>
 <br> 
 
-<h3> marwah</h3>
+
+<a href="https://github.com/MarwaSz" target="_blank">Marwah </a>
+
 
 <h3>Team member:
 Helped connect with the API <br>
