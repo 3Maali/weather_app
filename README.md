@@ -1,17 +1,17 @@
-#  Weather App
+# 🌤️ Weather App
  <h4>Brmjha TASK15 </h4>
 
- It is an application associated with the API:https://www.weatherapi.com/
-We linked to this API and accessed its data to use it in our application and display weather data for cities
+<h4> It is an application associated with the API:https://www.weatherapi.com/ <br>
+We linked to this API and accessed its data to use it in our application and display weather data for cities <h4>
 
 
 <br>
   
 # Features :
 
-Search by typing the city name
-Add the city to favourites
-View weather data for a specific city
+🌤️ Search by typing the city name
+🌤️ Add the city to favourites
+🌤️ View weather data for a specific city
 
 
 
@@ -20,7 +20,6 @@ View weather data for a specific city
 #  TEAM 
 
 
- 
 <a href="https://github.com/3Maali" target="_blank">Maali Alkhaldi</a>
 
 <h5>Team member:
