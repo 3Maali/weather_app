@@ -17,27 +17,21 @@ We linked to this API and accessed its data to use it in our application and dis
 <br>
 
 #  TEAM 
-
-<a href="https://github.com/3Maali" target="_blank">Maali Alkhaldi</a>
+<a href="https://github.com/3Maali" target="_blank">MAALI ALKHALDI </a>
 <h3>Team member:
 I worked on linking with the API, creating a model, and designing the application <br>
  <h3/>
 <br> 
 
-
 <h3>Raneem </h3>
-
 <h3>Team member:
 I helped design the app <br>
-
  <h3/>
 <br> 
 
 <a href="https://github.com/iivcoz" target="_blank">Anas Alsharief </a>
-
 <h3>Team member:
 I helped design the app <br>
-
  <h3/>
 <br> 
 
