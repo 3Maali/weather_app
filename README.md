@@ -24,6 +24,7 @@ I worked on linking with the API, creating a model, and designing the applicatio
 <br> 
 
 
+<a href="https://github.com/Raneem22" target="_blank">Raneem </a>
 <h3>Raneem </h3>
 <h3>Team member:
 I helped design the app <br>
